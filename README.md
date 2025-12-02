@@ -77,3 +77,8 @@ Contributions are welcome!
 
 ## 📄 License
 MIT License
+
+## 📫 Contact Me
+- LinkedIn: [krunal patel](www.linkedin.com/in/krunal-patel-798465367)
+- Email: patelkrunal2025.utran@gmail.com
+- GitHub: [Krunal Patel](https://github.com/krunaldk3393)
